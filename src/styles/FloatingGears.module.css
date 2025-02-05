@@ -13,6 +13,7 @@
     height: 80px;
     animation: rotateGear 10s linear infinite;
     transition: transform 0.1s linear;
+    
 }
 .HeroSection .gearsContainer {
     position: absolute;
@@ -34,16 +35,15 @@
 /* ✅ Responsive Adjustments */
 @media (max-width: 768px) {
     .gear {
-        width: 50px !important;
-        height: 50px !important;
+        
         animation-duration: 8s; /* ✅ Slightly faster rotation */
+       
     }
 }
 
 @media (max-width: 480px) {
     .gear {
-        width: 35px !important;
-        height: 35px !important;
+        
         animation-duration: 6s; /* ✅ Even faster rotation */
     }
 }
@@ -65,12 +65,12 @@
 .ProductSectionGear6 { bottom: 90%; right: 35%; width: 80px; height: 80px; animation-duration: 13s; }
 
 /* ✅ Contact Section Gear Positions */
-.ContactSectionGear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+.ContactSectionGear1 { top: 1%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
 .ContactSectionGear2 { top: 30%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
 .ContactSectionGear3 { bottom: 15%; left: 5%; width: 70px; height: 70px; animation-duration: 10s; }
 .ContactSectionGear4 { bottom: 5%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
 .ContactSectionGear5 { top: 80%; left: 60%; width: 50px; height: 50px; animation-duration: 9s; }
-.ContactSectionGear6 { bottom: 80%; right: 75%; width: 80px; height: 80px; animation-duration: 13s; }
+.ContactSectionGear6 { bottom: 86%; right: 75%; width: 80px; height: 80px; animation-duration: 13s; }
 
 /* ✅ About Us Section Gear Positions */
 .AboutUsGear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
@@ -79,3 +79,41 @@
 .AboutUsGear4 { bottom: 25%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
 .AboutUsGear5 { top: 80%; left: 30%; width: 50px; height: 50px; animation-duration: 9s; }
 .AboutUsGear6 { bottom: 80%; right: 75%; width: 80px; height: 80px; animation-duration: 13s; }
+
+
+@media (max-width: 768px) {/* ✅ Hero Section Gear Positions */
+    .HeroSectionGear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+    .HeroSectionGear2 { top: 20%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+    .HeroSectionGear3 { bottom: 15%; left: 10%; width: 70px; height: 70px; animation-duration: 10s; }
+    .HeroSectionGear4 { bottom: 25%; right: 10%; width: 100px; height: 100px; animation-duration: 15s; }
+    .HeroSectionGear5 { top: 80%; left: 30%; width: 50px; height: 50px; animation-duration: 9s; }
+    .HeroSectionGear6 { bottom: 80%; right: 15%; width: 80px; height: 80px; animation-duration: 13s; }
+    
+    /* ✅ Product Section Gear Positions */
+    .ProductSectionGear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+    .ProductSectionGear2 { top: 30%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+    .ProductSectionGear3 { bottom: 15%; left: 7%; width: 70px; height: 70px; animation-duration: 10s; }
+    .ProductSectionGear4 { bottom: 5%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
+    .ProductSectionGear5 { top: 50%; left: 60%; width: 50px; height: 50px; animation-duration: 9s; }
+    .ProductSectionGear6 { bottom: 97%; right: 35%; width: 80px; height: 80px; animation-duration: 13s; }
+    
+    /* ✅ Contact Section Gear Positions */
+    .ContactSectionGear1 { top: 1%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+    .ContactSectionGear2 { top: 30%; right: 10%; width: 90px; height: 90px; animation-duration: 14s; }
+    .ContactSectionGear3 { bottom: 5%; left: 5%; width: 70px; height: 70px; animation-duration: 10s; }
+    .ContactSectionGear4 { bottom: 5%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
+    .ContactSectionGear5 { top: 80%; left: 60%; width: 50px; height: 50px; animation-duration: 9s; }
+    .ContactSectionGear6 { bottom: 70%; right: 75%; width: 80px; height: 80px; animation-duration: 13s; }
+    
+    /* ✅ About Us Section Gear Positions */
+    .AboutUsGear1 { top: 1%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+    .AboutUsGear2 { top: 20%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+    .AboutUsGear3 { bottom: 15%; left: 10%; width: 70px; height: 70px; animation-duration: 10s; }
+    .AboutUsGear4 { bottom: 20%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
+    .AboutUsGear5 { top: 80%; left: 30%; width: 50px; height: 50px; animation-duration: 9s; }
+    .AboutUsGear6 { bottom: 80%; right: 75%; width: 80px; height: 80px; animation-duration: 13s; }
+    
+    }
+
+
+

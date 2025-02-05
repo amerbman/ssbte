@@ -152,8 +152,8 @@
 
   /* Gears in Contact Section */
 .contactSection .gearsContainer { position: absolute; width: 100%; height: 100%;z-index: 1; }
-.contactSection .gear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
-.contactSection .gear2 { top: 30%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+.contactSection .gear1 { top: 50%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+.contactSection .gear2 { top: 10%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
 .contactSection .gear3 { bottom: 15%; left: 5%; width: 70px; height: 70px; animation-duration: 10s; }
 .contactSection .gear4 { bottom: 5%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
 .contactSection .gear5 { top: 80%; left: 60%; width: 50px; height: 50px; animation-duration: 9s; }
