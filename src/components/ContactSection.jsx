@@ -54,7 +54,7 @@ const ContactSection = () => {
             <iframe
               src={branch.mapEmbed}
               title={branch.name}
-              loading="lazy"
+              loading="eager"
               allowFullScreen
             ></iframe>
 
