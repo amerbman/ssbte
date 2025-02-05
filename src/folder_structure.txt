@@ -1,0 +1,140 @@
+.
+├── App.jsx
+├── Catalog.jsx
+├── assets
+│   └── product_images
+│       ├── filters
+│       │   ├── diesel_and_petrol_filter_1.png
+│       │   ├── water_seperators_filter_1.png
+│       │   └── water_seperators_filter_2.png
+│       ├── final_structure.txt
+│       ├── fittings
+│       │   ├── alok_tube_fitting
+│       │   │   ├── alok_tube_fitting_1.png
+│       │   │   ├── alok_tube_fitting_2.png
+│       │   │   └── alok_tube_fitting_3.png
+│       │   ├── brass_fitting
+│       │   │   └── brass_fitting.png
+│       │   ├── cpi_tube_fitting
+│       │   │   ├── cpi_tube_fitting_1.png
+│       │   │   ├── cpi_tube_fitting_2.png
+│       │   │   └── cpi_tube_fitting_3.png
+│       │   ├── flange_and_reducer_fitting
+│       │   │   └── flange_and_reducer_fitting.png
+│       │   ├── hydraulic_fitting
+│       │   │   └── hydraulic_fitting.png
+│       │   ├── mpi_fitting
+│       │   │   ├── mpi_fitting_1.png
+│       │   │   ├── mpi_fitting_2.png
+│       │   │   └── mpi_fitting_3.png
+│       │   ├── pipe_fitting
+│       │   │   └── pipe_fitting.png
+│       │   ├── stainless_steel_fitting
+│       │   │   └── stainless_steel_fitting.png
+│       │   └── welded_fittings
+│       │       └── welded_fitting.png
+│       ├── hose
+│       │   └── hose.png
+│       ├── hydraulic_cylinders_pumps
+│       │   ├── hydraulic_cylinder
+│       │   │   └── hydraulic_cylinder.png
+│       │   ├── hydraulic_filter
+│       │   │   └── hydraulic_filter.png
+│       │   └── hydraulic_gear_pumps
+│       │       └── hydraulic_gear_pumps.png
+│       ├── pneumatic_frl
+│       │   ├── air_gun
+│       │   │   └── air_gun.png
+│       │   ├── filter_regulator_and_lube
+│       │   │   ├── filter_regulator_and_lube_1.png
+│       │   │   └── filter_regulator_and_lube_2.png
+│       │   ├── pneumatic_frl
+│       │   │   └── pneumatic_frl.png
+│       │   └── pressure_gauges
+│       │       └── pressure_gauges.png
+│       ├── refrigeration_cylinders
+│       │   ├── pneumatic_cylinder
+│       │   │   └── pneumatic_cylinder.png
+│       │   ├── pneumatic_mini_cylinder
+│       │   │   └── pneumatic_mini_cylinder.png
+│       │   ├── quick_couplings
+│       │   │   └── quick_couplings.png
+│       │   └── refrigeration_valve
+│       │       └── refrigeration_valve.png
+│       ├── regulators_flow_controls
+│       │   ├── back_pressure_regulators
+│       │   │   └── back_pressure_regulator.png
+│       │   ├── modular_systems
+│       │   │   └── modular_systems.png
+│       │   ├── pressure_regulators
+│       │   │   └── pressure_regulators.png
+│       │   ├── stream_switching_systems
+│       │   │   └── stream_switching_systems.png
+│       │   └── vent_master
+│       │       └── vent_master.png
+│       ├── tube_pipe_categories
+│       │   ├── stainless_steel_tube_pipe
+│       │   │   └── stainless_steel_tube_pipe.png
+│       │   └── tube_fabricating
+│       │       └── tube_fabricating.png
+│       └── valves
+│           ├── 3_and_5_valve_differential_pressure_manifold
+│           │   └── 3_and_5_valve_differential_pressure_manifold.png
+│           ├── acuator_valve
+│           │   └── acuator_valve.png
+│           ├── ball_plug_valve
+│           │   └── ball_plug_valve.png
+│           ├── bleed_purge_valve
+│           │   └── bleed_purge_valve.png
+│           ├── butterfly_valve
+│           │   └── butterfly_valve.png
+│           ├── check_valve
+│           │   └── check_valve.png
+│           ├── double_block_and_flanged_manifold_valve
+│           │   └── double_block_and_flanged_manifold_valve.png
+│           ├── hand_valve
+│           │   ├── hand_valve_1.png
+│           │   ├── hand_valve_2.png
+│           │   └── hand_valve_3.png
+│           ├── high_performance_manifold_valve
+│           │   └── high_performance_manifold_valve.png
+│           ├── hydraulic_valve
+│           │   ├── hydraulic_valve_valve_1.png
+│           │   ├── hydraulic_valve_valve_2.png
+│           │   ├── hydraulic_valve_valve_3.png
+│           │   └── hydraulic_valve_valve_4.png
+│           ├── lift_check_valve
+│           │   └── lift_check_valve.png
+│           ├── metering_valve
+│           │   └── metering_valve.png
+│           ├── needle_valve
+│           │   └── needle_valve.png
+│           ├── packless_valve
+│           │   └── packless_valve.png
+│           ├── relief_valve
+│           │   └── relief_valve.png
+│           ├── rotary_plug_valve
+│           │   ├── rotary_plug_valve_1.png
+│           │   ├── rotary_plug_valve_2.png
+│           │   └── rotary_plug_valve_3.png
+│           ├── solenoid_valve
+│           │   └── solenoid_valve.png
+│           ├── swingout_valve
+│           │   ├── swingout_valve_1.png
+│           │   └── swingout_valve_2.png
+│           └── two_valve_manifold
+│               ├── two_valve_manifold_1.png
+│               ├── two_valve_manifold_2.png
+│               ├── two_valve_manifold_3.png
+│               └── two_valve_manifold_4.png
+├── components
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   └── Products.jsx
+├── data
+│   └── products.json
+├── folder_structure.txt
+├── index.css
+└── main.jsx
+
+60 directories, 78 files

@@ -1,0 +1,140 @@
+
+  
+  
+  /* ✅ Hero Section */
+  .heroSection {
+    position: relative;
+    height: 90vh;
+    background-color: #1C1C1C; /* Dark gray background */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color:  #E0E0E0;
+  }
+  
+  .heroContent {
+    max-width: 600px;
+    height: 50vh; /* Increase height to full screen */
+    min-height: 250px; /* Ensures enough space on smaller screens */
+    background-color: none;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 2; /* Keeps text above the gears */
+    gap: 20px; /* Adds space between text and button */
+  }
+
+  /* Logo & Name Container */
+.heroLogoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; /* Space between logo and text */
+    will-change: opacity, transform;
+    z-index: 2; /* Keeps text above the gears */
+}
+
+/* Company Logo */
+.heroLogo {
+    width: 120px; /* Adjust size as needed */
+    height: auto;
+    animation: rollInFromLeft 2s ease-out;
+    transform: translateZ(0); /* ✅ Uses GPU for smooth performance */
+    z-index: 2; /* Keeps text above the gears */
+}
+
+@keyframes rollInFromLeft {
+    from { 
+        opacity: 0; 
+        transform: translateX(-100vw) rotate(-360deg); 
+    }
+    to { 
+        opacity: 1; 
+        transform: translateX(0) rotate(0); 
+    }
+}
+
+
+/* Company Name */
+.companyName {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFD700; /* Gold color */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0; /* Initially hidden (handled by Framer Motion) */
+}
+  
+  .animatedText {
+    font-size: 2.5rem;
+    font-weight: bold;
+    animation: fadeIn 2s ease-in-out;
+    will-change: opacity, transform; /* ✅ Helps smooth animations */
+    transform: translateZ(0); /* ✅ Uses GPU for smooth performance */
+  }
+
+  /* Fade-in Animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+  .heroContent h1 {
+    margin-bottom: 20px; /* Push text up */
+  }
+  .viewCatalogButton {
+    background-color: #FFD700; /* Gold color */
+    color: black;
+    font-weight: bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin-top: 20px;
+
+    /* ✅ Remove unwanted shadows */
+    box-shadow: none;
+    outline: none;
+}
+
+/* ✅ Fix hover & active states */
+.viewCatalogButton:hover {
+    background-color: #FFC300; /* Slightly darker gold */
+}
+
+.viewCatalogButton:active {
+    transform: scale(0.97); /* Click effect */
+}
+
+/* ✅ Remove focus outline */
+.viewCatalogButton:focus {
+    outline: none;
+    box-shadow: 0 0 8px rgba(255, 215, 0, 0.8); /* Soft glowing effect */
+}
+
+    /* Ensure gears stay within their section */
+.heroSection{
+    position: relative;  /* Ensures gears stay inside */
+    overflow: hidden;   /* Prevents gears from spilling out */
+    z-index: 2; /* Ensure sections stay above gears */
+  }
+  /* Content Containers – Ensure Text is Above Gears */
+.heroContent{
+    position: relative;
+    z-index: 3; /* Content above everything */
+  }
+
+  /* ✅ Hero Section Gears */
+.HeroSection .gearsContainer {
+    z-index: 1;
+}
+  
+.HeroSectionGear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+.HeroSectionGear2 { top: 20%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+.HeroSectionGear3 { bottom: 15%; left: 10%; width: 70px; height: 70px; animation-duration: 10s; }
+.HeroSectionGear4 { bottom: 25%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
+.HeroSectionGear5 { top: 80%; left: 30%; width: 50px; height: 50px; animation-duration: 9s; }
+.HeroSectionGear6 { bottom: 80%; right: 15%; width: 80px; height: 80px; animation-duration: 13s; }

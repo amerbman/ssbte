@@ -1,0 +1,568 @@
+{
+    "fittings": [
+        {
+          "id": 1,
+          "name": "Alok Tube Fitting 1",
+          "image": "product_images/fittings/alok_tube_fitting_1.png",
+           "pdfs": "alok_tube_fitting_1"
+        },
+        {
+          "id": 2,
+          "name": "Alok Tube Fitting 2",
+          "image": "product_images/fittings/alok_tube_fitting_2.png",
+          "pdfs": "alok_tube_fitting_2"
+          
+        },
+        {
+          "id": 3,
+          "name": "Alok Tube Fitting 3",
+          "image": "product_images/fittings/alok_tube_fitting_3.png",
+          "pdfs": "alok_tube_fitting_3"
+        },
+ 
+        {
+          "id": 4,
+          "name": "CPI Tube Fitting 1==",
+          "image": "product_images/fittings/cpi_tube_fitting_1.png",
+          "pdfs": "cpi_tube_fitting_1"
+        },
+        {
+          "id": 5,
+          "name": "CPI Tube Fitting 2",
+          "image": "product_images/fittings/cpi_tube_fitting_2.png",
+          "pdfs": "cpi_tube_fitting_2"
+        },
+        {
+          "id": 6,
+          "name": "CPI Tube Fitting 3",
+          "image": "product_images/fittings/cpi_tube_fitting_3.png",
+          "pdfs": "cpi_tube_fitting_3"
+        },
+        {
+            "id": 7,
+            "name": "Brass Fitting",
+            "image": "product_images/fittings/brass_fitting.png",
+             "pdfs":"brass_fittings"
+          },
+        {
+          "id": 8,
+          "name": "Flange and Reducer Fitting",
+          "image": "product_images/fittings/flange_and_reducer_fitting.png",
+          "pdfs": "flange_and_reducer_fitting"
+        },
+        {
+          "id": 9,
+          "name": "Hydraulic Fitting",
+          "image": "product_images/fittings/hydraulic_fitting.png",
+          "pdfs": "hydraulic_fitting"
+        },
+        {
+          "id": 10,
+          "name": "MPI Fitting 1",
+          "image": "product_images/fittings/mpi_fitting_1.png",
+          "pdfs": "mpi_fitting_1"
+        },
+        {
+          "id": 11,
+          "name": "MPI Fitting 2",
+          "image": "product_images/fittings/mpi_fitting_2.png",
+          "pdfs": "mpi_fitting_2"
+        },
+        {
+          "id": 12,
+          "name": "MPI Fitting 3",
+          "image": "product_images/fittings/mpi_fitting_3.png",
+          "pdfs": "mpi_fitting_3"
+        },
+        {
+          "id": 13,
+          "name": "Pipe Fitting",
+          "image": "product_images/fittings/pipe_fitting.png",
+          "pdfs": "pipe_fitting"
+        },
+        {
+          "id": 14,
+          "name": "Stainless Steel Fitting",
+          "image": "product_images/fittings/stainless_steel_fitting.png",
+          "pdfs": "stainless_steel_fitting"
+        },
+        {
+          "id": 15,
+          "name": "Welded Fitting",
+          "image": "product_images/fittings/welded_fitting.png",
+          "pdfs": "welded_fitting"
+        }
+      ],
+
+    "valves": [
+        {
+          "id": 1,
+          "name": "3 and 5 Valve Differential Pressure Manifold",
+          "image": "product_images/valves/3_and_5_valve_differential_pressure_manifold.png",
+          "pdfs": "3_and_5_valve_differential_pressure_manifold"
+
+        },
+        {
+          "id": 2,
+          "name": "Actuator Valve",
+          "image": "product_images/valves/acuator_valve.png",
+          "pdfs": "acuator_valve"
+        },
+        {
+          "id": 3,
+          "name": "Ball Plug Valve",
+          "image": "product_images/valves/ball_plug_valve.png",
+          "pdfs": "ball_plug_valve"
+        },
+        {
+          "id": 4,
+          "name": "Bleed Purge Valve",
+          "image": "product_images/valves/bleed_purge_valve.png",
+          "pdfs": "bleed_purge_valve"
+        },
+        {
+          "id": 5,
+          "name": "Butterfly Valve",
+          "image": "product_images/valves/butterfly_valve.png",
+          "pdfs": "butterfly_valve"
+        },
+        {
+          "id": 6,
+          "name": "Check Valve",
+          "image": "product_images/valves/check_valve.png",
+          "pdfs": "check_valve"
+        },
+        {
+          "id": 7,
+          "name": "Double Block and Flanged Manifold Valve",
+          "image": "product_images/valves/double_block_and_flanged_manifold_valve.png",
+          "pdfs": "double_block_and_flanged_manifold_valve"
+        },
+        {
+          "id": 8,
+          "name": "Hand Valve 1",
+          "image": "product_images/valves/hand_valve_1.png",
+          "pdfs": "hand_valve_1"
+        },
+        {
+          "id": 9,
+          "name": "Hand Valve 2",
+          "image": "product_images/valves/hand_valve_2.png",
+          "pdfs": "hand_valve_2"
+        },
+        {
+          "id": 10,
+          "name": "Hand Valve 3",
+          "image": "product_images/valves/hand_valve_3.png",
+          "pdfs": "hand_valve_3"
+        },
+        {
+            "id": 11,
+            "name": "high performance manifold valve",
+            "image": "product_images/valves/high_performance_manifold_valve.png",
+            "pdfs": "high_performance_manifold_valve"
+        },
+        {
+          "id": 12,
+          "name": "solenoid coil",
+          "image": "product_images/valves/hydraulic_valve_1.png",
+          "pdfs": "solenoid_coil"
+        },
+        {
+          "id": 13,
+          "name": "Hydraulic Valve 2",
+          "image": "product_images/valves/hydraulic_valve_2.png",
+          "pdfs": "hydraulic_valve_2"
+        },
+        {
+          "id": 14,
+          "name": "Hydraulic Valve 3",
+          "image": "product_images/valves/hydraulic_valve_3.png",
+          "pdfs": "hydraulic_valve_3"
+        },
+        {
+          "id": 15,
+          "name": "Hydraulic Valve 4",
+          "image": "product_images/valves/hydraulic_valve_4.png",
+          "pdfs": "hydraulic_valve_4"
+        },
+        {
+          "id": 16,
+          "name": "Lift Check Valve",
+          "image": "product_images/valves/lift_check_valve.png",
+          "pdfs": "lift_check_valve"
+        },
+        {
+          "id": 17,
+          "name": "metering valve",
+          "image": "product_images/valves/metering_valve.png",
+          "pdfs": "metering_valve"
+        },
+        {
+         "id": 18,
+          "name": "valve manifolds",
+          "image": "product_images/valves/valve_manifold_1.png",
+          "pdfs": "valve_manifold_1"
+        },
+        {
+            "id": 19,
+            "name": "two valve manifold",
+            "image": "product_images/valves/valve_manifold_2.png",
+            "pdfs": "valve_manifold_2"
+
+        },
+        {
+            "id": 21,
+            "name": "two valve manifold_1",
+            "image": "product_images/valves/valve_manifold_4.png",
+            "pdfs": "valve_manifold_4"
+        },
+        {
+            "id": 20,
+            "name": "three valve manifold",
+            "image": "product_images/valves/valve_manifold_3.png",
+            "pdfs": "valve_manifold_3"
+        },
+        {
+          "id": 22,
+          "name": "Needle Valve",
+          "image": "product_images/valves/needle_valve.png",
+          "pdfs": "needle_valve"
+        },
+        {
+          "id": 23,
+          "name": "Packless Valve",
+          "image": "product_images/valves/packless_valve.png",
+          "pdfs": "packless_valve"
+        },
+        {
+          "id": 24,
+          "name": "Relief Valve",
+          "image": "product_images/valves/relief_valve.png",
+          "pdfs": "relief_valve"
+        },
+        {
+          "id": 25,
+          "name": "Rotary Plug Valve 1",
+          "image": "product_images/valves/rotary_plug_valve_1.png",
+           "pdfs": "rotary_plug_valve_1"
+        },
+        {
+          "id": 26,
+          "name": "Rotary Plug Valve 2",
+          "image": "product_images/valves/rotary_plug_valve_2.png",
+          "pdfs": "rotary_plug_valve_2"
+        },
+        {
+          "id": 27,
+          "name": "Rotary Plug Valve 3",
+          "image": "product_images/valves/rotary_plug_valve_3.png",
+          "pdfs": "rotary_plug_valve_3"
+        },
+        {
+          "id": 28,
+          "name": "Solenoid Valve",
+          "image": "product_images/valves/solenoid_valve.png",
+          "pdfs": "solenoid_valve"
+        },
+        {
+            "id": 29,
+            "name": "swingout Valve 1",
+            "image": "product_images/valves/swingout_valve_1.png",
+            "pdfs": "swingout_valve_1"
+        },
+        {
+            "id": 30,
+            "name": "swingout Valve 2",
+            "image": "product_images/valves/swingout_valve_2.png",
+            "pdfs": "swingout_valve_2"
+
+        }
+      ],
+
+      "regulators_flow_controls":[
+        {
+            "id": 1,
+            "name": "back pressure regulator",
+            "image": "product_images/regulators_flow_controls/back_pressure_regulator.png",
+            "pdfs": "back_pressure_regulator"
+        },
+        {
+            "id": 2,
+            "name": "modular systems",
+            "image": "product_images/regulators_flow_controls/modular_systems.png",
+            "pdfs": "modular_systems"
+        },
+        {
+            "id": 3,
+            "name": "pressure regulators",
+            "image": "product_images/regulators_flow_controls/pressure_regulators.png",
+            "pdfs": "pressure_regulators"
+        },
+        {
+            "id": 4,
+            "name": "stream switching systems",
+            "image": "product_images/regulators_flow_controls/stream_switching_systems.png",
+            "pdfs": "stream_switching_systems"
+        },
+        {
+            "id": 5,
+            "name": "vent master",
+            "image": "product_images/regulators_flow_controls/vent_master.png",
+            "pdfs": "vent_master"
+        }
+    
+      ],
+     "tube_pipe_categories":[
+        {
+         "id": 1,
+         "name": "stainless steel tube pipe",
+         "image": "product_images/tube_pipe_categories/stainless_steel_tube_pipe.png",
+         "pdfs": "stainless_steel_tube_pipe"
+        },
+        {
+            "id": 2,
+            "name": "tube fabricating",
+            "image": "product_images/tube_pipe_categories/tube_fabricating.png",
+            "pdfs": "tube_fabricating"
+           }
+ 
+       ],
+       "hose":[
+        {
+         "id": 1,
+            "name": "hose",
+            "image": "product_images/hose/hose.png",
+            "pdfs": "hose"
+        }
+       ],
+      "refrigeration_cylinders":[
+        {
+            "id": 1,
+            "name": "pneumatic mini cylinder",
+            "image": "product_images/refrigeration_cylinders/pneumatic_mini_cylinder.png",
+            "pdfs": "pneumatic_mini_cylinder"
+        },
+        {
+            "id": 2,
+            "name": "pneumatic cylinder",
+            "image": "product_images/refrigeration_cylinders/pneumatic_cylinder.png",
+            "pdfs": "pneumatic_cylinder"
+        },
+        {
+            "id": 3,
+            "name": "quick couplings",
+            "image": "product_images/refrigeration_cylinders/quick_couplings.png",
+            "pdfs": "quick_couplings"
+        },
+        {
+            "id": 4,
+            "name": "refrigeration valve",
+            "image": "product_images/refrigeration_cylinders/refrigeration_valve.png",
+            "pdfs": "refrigeration_valve"
+        }
+      ],
+
+      "pneumatic_frl":[
+        {
+            "id": 1,
+            "name": "air gun",
+            "image": "product_images/pneumatic_frl/air_gun.png",
+            "pdfs": "air_gun"
+
+        },
+
+        {
+            "id": 2,
+            "name": "filter regulator and lube 1",
+            "image": "product_images/pneumatic_frl/filter_regulator_and_lube_1.png",
+            "pdfs": "filter_regulator_and_lube_1"
+
+        },
+        {
+            "id": 3,
+            "name": "filter regulator and lube 2",
+            "image": "product_images/pneumatic_frl/filter_regulator_and_lube_2.png",
+            "pdfs": "filter_regulator_and_lube_2"
+
+        },
+        {
+            "id": 4,
+            "name": "pneumatic frl1",
+            "image": "product_images/pneumatic_frl/pneumatic_frl1.png",
+            "pdfs": "pneumatic_frl_1"
+            
+        },
+        {
+            "id": 5,
+            "name": "pressure gauges",
+            "image": "product_images/pneumatic_frl/pressure_gauges.png",
+            "pdfs": "pressure_gauges"
+            
+        }
+
+      ],
+       "hydraulic_cylinders_pumps":[
+        {
+            "id": 1,
+            "name": "hydraulic cylinders",
+            "image": "product_images/hydraulic_cylinders_pumps/hydraulic_cylinder.png",
+            "pdfs": "hydraulic_cylinder"
+            
+        },
+        {
+            "id": 2,
+            "name": "hydraulic filter",
+            "image": "product_images/hydraulic_cylinders_pumps/hydraulic_filter.png",
+            "pdfs": "hydraulic_filter"
+            
+        },
+        {
+            "id": 3,
+            "name": "hydraulic gear pumps",
+            "image": "product_images/hydraulic_cylinders_pumps/hydraulic_gear_pumps.png",
+            "pdfs": "hydraulic_gear_pumps"
+            
+        }
+       ],
+
+       "filters":[
+         {
+            
+                "id": 1,
+                "name": "diesel and petrol filter 1",
+                "image": "product_images/filters/diesel_and_petrol_filter_1.png",
+                "pdfs": "diesel_and_petrol_filter"
+         },
+         {
+            
+            "id": 2,
+            "name": "water seperators filter 1",
+            "image": "product_images/filters/water_seperators_filter_1.png",
+            "pdfs": "water_seperators_filter_1"
+        },
+        {
+            
+            "id": 3,
+            "name": "water seperators filter 2",
+            "image": "product_images/filters/water_seperators_filter_2.png",
+            "pdfs": "water_seperators_filter_2"
+        }
+       ],
+    "pdfs": {
+    "fittings": {
+        "title": "Fittings Product Catalog",
+        "links": {
+            "alok_tube_fitting_1": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "alok_tube_fitting_2": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "alok_tube_fitting_3": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "brass_fittings": "https://www.parker.com/content/dam/Parker-com/Literature/Brass-Products/catalogs/Parker_FSC_Master_Catalog_3501E.pdf",
+            "cpi_tube_fitting_1": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "cpi_tube_fitting_2": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "cpi_tube_fitting_3": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CPI_ALOK_Tube_Fittings_Cat_4230_4233.pdf",
+            "flange_and_reducer_fitting": "https://www.parker.com/literature/Tube%20Fittings%20Division/Hydraulic%20Flanges%20and%20Components.pdf",
+            "hydraulic_fitting": "https://www.parker.com/parkerimages/ParkerStore/Catalog/Fittings.pdf",
+            "mpi_fitting_1": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/MPI_Medium_Pressure_Products_Catalog_4234-MA.pdf",
+            "mpi_fitting_2": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/MPI_Medium_Pressure_Products_Catalog_4234-MA.pdf",
+            "mpi_fitting_3": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/MPI_Medium_Pressure_Products_Catalog_4234-MA.pdf",
+            "pipe_fitting": "https://hymatik.com/media/17159/parker-adapters.pdf",
+            "stainless_steel_fitting": "https://www.parker.com/parkerimages/tfd/bulletinpdf/ssqrg.pdf",
+            "welded_fitting": "https://www.parker.com/content/dam/Parker-com/Literature/Brazil/Instrumentation/4280-Welded-Fittings---November-2011.pdf"
+        }
+    },
+    "valves": {
+        "title": "Valves Selection Guide",
+        "links": {
+            "3_and_5_valve_differential_pressure_manifold": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Process_Instrumentation_Valve_and_Manifold_Solutions_4190-VMS.pdf",
+            "acuator_valve": "https://www.parker.com/parkerimages/ParkerStore/Catalog/Actuators.pdf",
+            "ball_plug_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/WebSphere-Support-Material/BALL-VALVE_CAT_4121.pdf",
+            "bleed_purge_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/WebSphere-Support-Material/MVBB-Series-Needle-Valve-Catalog.pdf",
+            "butterfly_valve": "https://www.parker.com/parkerimages/icd/cat/english/4270-BFLY.pdf",
+            "check_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/IPD_Check_Valves_Catalog_4135-CV.pdf",
+            "double_block_and_flanged_manifold_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/phoenix_ipd/Parker_Phoenix_PPL_CAT_P2DBB_001_Double_Block_Bleed_Valve.pdf",
+            "hand_valve_1": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4190-HV.pdf",
+            "hand_valve_2": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4190-HV.pdf",
+            "hand_valve_3": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4190-HV.pdf",
+            "high_performance_manifold_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Instrumentation-Valves-and-Manifolds-4190-PREM.pdf",
+            "solenoid_coil":"https://www.parker.com/parkerimages/IHD/CAT/ENGLISH/3105h01.pdf",
+            "hydraulic_valve_2": "https://www.parker.com/content/dam/Parker-com/Literature/Hydraulic-Valve-Division/Catalogs/Catalog-PDFs/Cat-MSG14-2500_Industrial-Hydraulic-Valves.pdf",
+            "hydraulic_valve_3": "https://www.parker.com/content/dam/Parker-com/Literature/Hydraulic-Valve-Division/Catalogs/Catalog-PDFs/Cat-MSG14-2500_Industrial-Hydraulic-Valves.pdf",
+            "hydraulic_valve_4": "https://www.parker.com/content/dam/Parker-com/Literature/Hydraulic-Valve-Division/Catalogs/Catalog-PDFs/Cat-MSG14-2500_Industrial-Hydraulic-Valves.pdf",
+            "lift_check_valve": "https://files.valinonline.com/userfiles/documents/parker-lc-series-lift-check-valves-catalog-page.pdf",
+            "metering_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CAT-4170-MV-.pdf",
+            "needle_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/WebSphere-Support-Material/MVBB-Series-Needle-Valve-Catalog.pdf",
+            "packless_valve": "https://www.parker.com/parkerimages/veriflo/PDF/CompleteCatalogs/4515_PacklessValves_January2006.pdf",
+            "relief_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/IPD_Check_Valves_Catalog_4135-CV.pdf", 
+            "rotary_plug_valve_1": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4126-PR.pdf",
+            "rotary_plug_valve_2": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4126-PR.pdf",
+            "rotary_plug_valve_3": "https://www.parker.com/literature/Literature%20Files/IPDE/cat/english/4126-PR.pdf",
+            "solenoid_valve": "https://www.parker.com/parkerimages/English%20Catalogues/8930UK.pdf",
+            "swingout_valve_1": "https://www.ventile.cz/image/data/parker-catalog/catalog/Cat-4125-SWB-A00.pdf",
+            "swingout_valve_2": "https://www.ventile.cz/image/data/parker-catalog/catalog/Cat-4125-SWB-A00.pdf",
+            "valve_manifold_1": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Instrumentation-Valves-and-Manifolds-4190-PREM.pdf",
+            "valve_manifold_2": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Instrumentation-Valves-and-Manifolds-4190-PREM.pdf",
+            "valve_manifold_3": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Instrumentation-Valves-and-Manifolds-4190-PREM.pdf",
+            "valve_manifold_4": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/Instrumentation-Valves-and-Manifolds-4190-PREM.pdf"
+        }
+    },
+    "regulators_flow_controls": {
+        "title": "Regulators Flow Controls",
+        "links": {
+            "back_pressure_regulator": "https://www.parker.com/literature/Veriflo/Veriflo%20-%20Catalog%20Covers/Cat4510_Back_Pressure_Regulators.pdf",
+            "modular_systems": "https://www.parker.com/content/dam/Parker-com/Literature/Literature-Files/watts/cat/0304-2_Qube_FRLs.pdf",
+            "pressure_regulators": "https://www.parker.com/content/dam/Parker-com/Literature/Precision-Fluidics/Precision-Pressure-Regulator-Catalog-PPF-PPR---002.pdf",
+            "stream_switching_systems": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CAT_4141-R_GEN-II-R-Max.pdf",
+            "vent_master": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/CAT_4142-VM---Sept09R2.pdf"
+        }
+    },
+    "tube_pipe_categories": {
+        "title": "Tube and Pipe Categories",
+        "links": {
+            "stainless_steel_tube_pipe": "https://www.parker.com/content/dam/Parker-com/Literature/Instrumentation-Products-Division/Catalogs/MARCOM_BUL_4200_Tubing.pdf",
+            "tube_fabricating": "https://www.parker.com/literature/Literature%20Files/br/download/instrumentation/pdf/01_ci/cat/tube_fabricating_equipment_4290.pdf"
+        }
+    },
+    "hose": {
+        "title": "hose Products Overview",
+        "links": {
+            "hose": "https://www.parker.com/content/dam/Parker-com/Literature/Hose-Products-Division/Catalog-4400-PDF-Files/HPD_4400_Catalog.pdf"
+        }
+    },
+    "refrigeration_cylinders": {
+        "title": "Refrigeration Cylinders",
+        "links": {
+            "pneumatic_cylinder": "https://www.parker.com/Literature/Pneumatics%20Division%20Europe/PDE-Documents/Cylinders/Parker_Pneumatic_P1A_Mini_ISO_Cylinder_Catalogue_PDE2564TCUK.pdf",
+            "pneumatic_mini_cylinder": "https://www.parker.com/Literature/Pneumatics%20Division%20Europe/PDE-Documents/Cylinders/Parker_Pneumatic_P1A_Mini_ISO_Cylinder_Catalogue_PDE2564TCUK.pdf",
+            "quick_couplings": "https://www.parker.com/content/dam/Parker-com/Divisions-2011/Quick-Coupling-Division/SupportAssets/Catalog_3800_Quick_Coupling_Products.pdf",
+            "refrigeration_valve": "https://www.parker.com/content/dam/Parker-com/Literature/Refrigerating-Specialties-Division/Literature/Catalogs/Catalog-C12.pdf"
+        }
+    },
+    "pneumatic_frl": {
+        "title": "Pneumatic FRL Systems",
+        "links": {
+            "air_gun": "https://www.parker.com/literature/Pneumatics%20Division%20Europe/PDE-Documents/General%20Catalogues/PDE2600PNUK_Parker_Pneumatic_Catalogue_V11.pdf",
+            "filter_regulator_and_lube_1": "https://www.parker.com/literature/Pneumatics%20Division%20Europe/PDE-Documents/General%20Catalogues/PDE2600PNUK_Parker_Pneumatic_Catalogue_V11.pdf",
+            "filter_regulator_and_lube_2": "https://www.parker.com/literature/Pneumatics%20Division%20Europe/PDE-Documents/General%20Catalogues/PDE2600PNUK_Parker_Pneumatic_Catalogue_V11.pdf",
+            "pneumatic_frl_1": "https://www.parker.com/literature/Pneumatics%20Division%20Europe/PDE-Documents/General%20Catalogues/PDE2600PNUK_Parker_Pneumatic_Catalogue_V11.pdf",
+            "pressure_gauges": "https://www.parker.com/literature/Pneumatics%20Division%20Europe/PDE-Documents/General%20Catalogues/PDE2600PNUK_Parker_Pneumatic_Catalogue_V11.pdf"
+        }
+    },
+    "hydraulic_cylinders_pumps": {
+        "title": "hydraulic cylinders pumps",
+        "links": {
+            "hydraulic_cylinder": "https://www.parker.com/content/dam/Parker-com/Literature/Industrial-Cylinder/cylinder/cat/english/HY08_1130_4_NA.pdf",
+            "hydraulic_filter": "https://www.parker.com/Literature/Brazil/Catalogs/230014USA.pdf",
+            "hydraulic_gear_pumps": "https://www.parker.com/parkerimages/PUMPMOTOR/CAT/ENGLISH/2650-z1.pdf"
+        }
+    },
+    "filters": {
+        "title": "Filters",
+        "links": {
+            "diesel_and_petrol_filter": "https://www.parker.com/content/dam/Parker-com/Literature/Racor/Racor_Fuel_Filtration_-_Pump_System_Products_-_7683.pdf",
+            "water_seperators_filter_1": "https://www.parker.com/content/dam/Parker-com/Literature/Racor/Racor_Fuel_Filtration_-_Pump_System_Products_-_7683.pdf",
+            "water_seperators_filter_2": "https://www.parker.com/content/dam/Parker-com/Literature/Racor/Racor_Fuel_Filtration_-_Pump_System_Products_-_7683.pdf"
+        }
+    }
+}
+}
+

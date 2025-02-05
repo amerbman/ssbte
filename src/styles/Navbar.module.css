@@ -1,0 +1,80 @@
+
+
+
+.navbar {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;  
+    background-color: #1C1C1C; /* Dark gray background */
+    z-index: 1000; /* Ensure it's always on top */
+    transition: all 0.3s ease-in-out;
+    
+  }
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    animation: iconMove 1.5s infinite alternate ease-in-out;
+  }
+  
+  .navbar ul li a:hover {
+    color: #FFD700; /* Gold color on hover */
+  }
+
+  .navbar ul li a svg {
+    width: 42px;  /* Increase icon width */
+    height: 42px; /* Increase icon height */
+    transition: transform 0.2s ease-in-out;
+}
+
+.navbar ul li a:hover svg {
+    transform: scale(1.2); /* Slight zoom effect on hover */
+}
+  
+  /* ✅ Animated Icons */
+  @keyframes iconMove {
+    from { transform: translateY(0px); }
+    to { transform: translateY(-5px); }
+  }
+
+  .navLinksContainer {
+    display: flex;
+    justify-content: center; /* Center links */
+    align-items: center;
+    gap: 20px; /* Space between links */
+  }
+
+  @media (max-width: 768px) {
+    .navLinksContainer ul {
+        gap: 10px; /* Reduce spacing */
+      }
+    
+      .navLinksContainer ul li {
+        font-size: 12px; /* Make text smaller */
+      }
+    
+      .navLinksContainer ul li img {
+        width: 50px; /* Make images smaller */
+        height: auto;
+      }
+      /* Target only the Flora image */
+        .navLinksContainer ul li img.flora_logo {
+            width: 80px; /* Increase Flora logo size */
+        }
+  }
+
+  

@@ -1,0 +1,48 @@
+/* 🌟 General Page Styling */
+.mainWrapper {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 100vw;
+    max-width: 100%;
+    overflow-x: hidden;
+    z-index: 1; /* Ensure it has a stacking context */
+    margin: 0;
+    padding: 0;
+}
+
+/* ✅ Global Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes rotateGear {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* ✅ Utility Classes */
+.textCenter {
+    text-align: center;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ✅ Responsive Adjustments */
+@media (max-width: 768px) {
+    .parkerLogo, .floraLogo {
+        height: 30px; /* Resize for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .parkerLogo, .floraLogo {
+        height: 25px; /* Further reduce size */
+    }
+}

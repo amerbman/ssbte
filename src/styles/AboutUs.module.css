@@ -1,0 +1,70 @@
+.aboutUsSection {
+    background: #1C1C1C;
+    color:  #E0E0E0;
+    padding-top: 50px;
+    padding-bottom: 205px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    text-align: center;
+}
+
+.aboutUsContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.founderImage {
+    width: 180px; /* Adjust as needed */
+    height: 220px; /* Adjust as needed */
+    border-radius: 5px; /* ✅ Slightly rounded corners, change to 0px for sharp edges */
+    object-fit: cover;
+    
+    
+}
+
+.founderText {
+    font-size: 1rem;
+    font-weight: bold;
+    color:  #E0E0E0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.aboutText h2 {
+    font-size: 2rem;
+    color :#F5C518;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.aboutText p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: auto;
+}
+
+  /* Ensure gears stay within their section */
+  .aboutUsSection  {
+    position: relative;  /* Ensures gears stay inside */
+    overflow: hidden;   /* Prevents gears from spilling out */
+    z-index: 2; /* Ensure sections stay above gears */
+  }
+  /* Content Containers – Ensure Text is Above Gears */
+.aboutUsContent {
+    position: relative;
+    z-index: 3; /* Content above everything */
+  }
+
+       /* Unique positions for hero section gears */
+       .aboutUsSection .gearsContainer { position: absolute; width: 100%; height: 100%;z-index: 1; }
+       .aboutUsSection .gear1 { top: 10%; left: 5%; width: 60px; height: 60px; animation-duration: 12s; }
+       .aboutUsSection .gear2 { top: 20%; right: 5%; width: 90px; height: 90px; animation-duration: 14s; }
+       .aboutUsSection .gear3 { bottom: 15%; left: 10%; width: 70px; height: 70px; animation-duration: 10s; }
+       .aboutUsSection .gear4 { bottom: 25%; right: 15%; width: 100px; height: 100px; animation-duration: 15s; }
+       .aboutUsSection .gear5 { top: 80%; left: 30%; width: 50px; height: 50px; animation-duration: 9s; }
+       .aboutUsSection .gear6 { bottom: 80%; right: 15%; width: 80px; height: 80px; animation-duration: 13s; }

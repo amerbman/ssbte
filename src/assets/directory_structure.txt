@@ -1,0 +1,82 @@
+.
+├── directory_structure.txt
+└── product_images
+    ├── filters
+    │   ├── diesel_and_petrol_filter_1.png
+    │   ├── water_seperators_filter_1.png
+    │   └── water_seperators_filter_2.png
+    ├── fittings
+    │   ├── alok_tube_fitting_1.png
+    │   ├── alok_tube_fitting_2.png
+    │   ├── alok_tube_fitting_3.png
+    │   ├── brass_fitting.png
+    │   ├── cpi_tube_fitting_1.png
+    │   ├── cpi_tube_fitting_2.png
+    │   ├── cpi_tube_fitting_3.png
+    │   ├── flange_and_reducer_fitting.png
+    │   ├── hydraulic_fitting.png
+    │   ├── mpi_fitting_1.png
+    │   ├── mpi_fitting_2.png
+    │   ├── mpi_fitting_3.png
+    │   ├── pipe_fitting.png
+    │   ├── stainless_steel_fitting.png
+    │   └── welded_fitting.png
+    ├── hose
+    │   └── hose.png
+    ├── hydraulic_cylinders_pumps
+    │   ├── hydraulic_cylinder.png
+    │   ├── hydraulic_filter.png
+    │   └── hydraulic_gear_pumps.png
+    ├── pneumatic_frl
+    │   ├── air_gun.png
+    │   ├── filter_regulator_and_lube_1.png
+    │   ├── filter_regulator_and_lube_2.png
+    │   ├── pneumatic_frl.png
+    │   └── pressure_gauges.png
+    ├── refrigeration_cylinders
+    │   ├── pneumatic_cylinder.png
+    │   ├── pneumatic_mini_cylinder.png
+    │   ├── quick_couplings.png
+    │   └── refrigeration_valve.png
+    ├── regulators_flow_controls
+    │   ├── back_pressure_regulator.png
+    │   ├── modular_systems.png
+    │   ├── pressure_regulators.png
+    │   ├── stream_switching_systems.png
+    │   └── vent_master.png
+    ├── tube_pipe_categories
+    │   ├── stainless_steel_tube_pipe.png
+    │   └── tube_fabricating.png
+    └── valves
+        ├── 3_and_5_valve_differential_pressure_manifold.png
+        ├── acuator_valve.png
+        ├── ball_plug_valve.png
+        ├── bleed_purge_valve.png
+        ├── butterfly_valve.png
+        ├── check_valve.png
+        ├── double_block_and_flanged_manifold_valve.png
+        ├── hand_valve_1.png
+        ├── hand_valve_2.png
+        ├── hand_valve_3.png
+        ├── high_performance_manifold_valve.png
+        ├── hydraulic_valve_valve_1.png
+        ├── hydraulic_valve_valve_2.png
+        ├── hydraulic_valve_valve_3.png
+        ├── hydraulic_valve_valve_4.png
+        ├── lift_check_valve.png
+        ├── metering_valve.png
+        ├── needle_valve.png
+        ├── packless_valve.png
+        ├── relief_valve.png
+        ├── rotary_plug_valve_1.png
+        ├── rotary_plug_valve_2.png
+        ├── rotary_plug_valve_3.png
+        ├── solenoid_valve.png
+        ├── swingout_valve_1.png
+        ├── swingout_valve_2.png
+        ├── two_valve_manifold_1.png
+        ├── two_valve_manifold_2.png
+        ├── two_valve_manifold_3.png
+        └── two_valve_manifold_4.png
+
+11 directories, 69 files
